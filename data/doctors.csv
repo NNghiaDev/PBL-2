@@ -1,0 +1,4 @@
+ID,FullName,DateOfBirth,Gender,Phone,Address,Specialty,LicenseNumber,DepartmentId,YearsOfExperience
+BS001,BS.CKII Tran Van Minh,10/03/1975,Nam,0913456789,Hai Chau Da Nang,Noi tong quat,CCHN-00123,KHOA_NOI,20
+BS002,ThS.BS Le Thi Hoa,25/08/1982,Nu,0905123987,Cam Le Da Nang,Nhi khoa,CCHN-00456,KHOA_NHI,14
+BS003,BS.CKI Vo Van Nam,12/12/1988,Nam,0932111222,Son Tra Da Nang,Cap cuu hoi suc,CCHN-00789,KHOA_CAPCUU,10

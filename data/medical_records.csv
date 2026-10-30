@@ -1,0 +1,6 @@
+RecordId,PatientId,DoctorId,ExamDate,Symptoms,Diagnosis,ConsultationFee,ServiceFee,Prescriptions
+BA001,BN001,BS001,30/10/2026 09:30,Sot nhe dau dau,Viem hong cap,150000,50000,TH001|Paracetamol 500mg|10|1500.000000|2 vien moi ngay;TH002|Amoxicillin 500mg|14|3500.000000|Sang 1 vien toi 1 vien
+BA999,BN001,BS001,30/10/2026 14:00,"Sot cao 39 do, dau hong",Viem amidan cap,150000,70000,TH001|Paracetamol 500mg|10|1500.000000|Uong 2 vien/ngay;TH003|Panadol Extra|2|18000.000000|Uong khi sot tren 38.5 do
+k01,BN001,BS001,30/10/2026,Dau,Dau,150000,50000,TH001|Paracetamol 500mg|1|1500.000000|1
+BA002,BN002,BS001,30/10/2026,Dau,Dau,150000,50000,TH001|Paracetamol 500mg|1|1500.000000|1
+BA1000,BN001,BS001,30/10/2026,Sot,Cam cum,150000,50000,TH001|Paracetamol 500mg|2|1500.000000|1

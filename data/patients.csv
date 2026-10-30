@@ -1,0 +1,4 @@
+ID,FullName,DateOfBirth,Gender,Phone,Address,HealthInsuranceId,BloodType,EmergencyContact,PriorityLevel
+BN001,Nguyen Van An,15/05/1985,Nam,0901234567,123 Le Duan Da Nang,DN849201928,O,0912345678,3
+BN002,Tran Thi Binh,20/11/1950,Nu,0987654321,45 Nguyen Thi Minh Khai Da Nang,DN849201999,A,0988888888,2
+BN003,Le Hoang Cuong,02/09/2000,Nam,0935123456,88 Bach Dang Da Nang,DN849202111,B,0935999888,1
